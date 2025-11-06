@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack Data Analyst**
 
-- 👋 Hey there! I'm Sanjeet Kumar 🎯 Future Data Analyst
+- 👋 Hey there! I'm Sanjeet Kumar🎯 Future Data Analyst
 
 - [My LinkedIn Profile](https://www.linkedin.com/in/sanjeet-kumar-41591835a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXNUIMmdqRK6wXYdXq7by3g%3D%3D)
 
