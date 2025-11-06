@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sanjeet_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjeet_kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sanjeet-kumar-41591835a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9rC%2Bo7d6SIWf9ozsvT%2Fm3A%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjeet_kumar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tipsy tech mobile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tipsy tech mobile" height="30" width="40" /></a>
 </p>
 
