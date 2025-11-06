@@ -5,13 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeet-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeet-kumar" /> </p>
 
-- <img  align="right" alt="DAta Analyst" width="400" src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif" alt="Description">
+<img  align="right" alt="DAta Analyst" width="400" src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif" alt="Description">
 
 
 - 🌱 I’m currently learning **Full Stack Data Analyst**
 
-👋 Hey there! I'm Sanjeet Kumar 🎯 Future Data Analyst
--  Connect on [LinkedIn](your-link-here)] 
+- 👋 Hey there! I'm Sanjeet Kumar 🎯 Future Data Analyst
+
+- [My LinkedIn Profile](https://www.linkedin.com/in/sanjeet-kumar-41591835a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXNUIMmdqRK6wXYdXq7by3g%3D%3D)
+
 
 - ⚡ Fun fact **I am funny**
 
